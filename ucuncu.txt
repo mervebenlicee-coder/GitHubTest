@@ -1,0 +1,4 @@
+ücüncü 
+text dosyası oluşturduk.
+
+son commit 
